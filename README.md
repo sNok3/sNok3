@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sNok3
-- 👀 I’m interested in programming
-- 🌱 I’m currently working Laravel & Vue.js
-- 💞️ Working on KitsuneLab projects & Freelancing
+- 💞️ Working at Bumbal Transport Software & tinkering with Laravel
+- 🧑🏻‍💻 My stack: PHP (Laravel), CSS (TailwindCSS), JavaScript (ES6, Vue.JS), C# (ASP.NET, Winforms), Python
 - 📫 How to reach me: Discord: snok3 (sNok3#1316)
